@@ -1,4 +1,5 @@
-.bundle
-.ruby-version
-Gemfile*
-vendor
+*
+!jekyllsetup.sh
+!LICENSE
+!README.md
+!.gitignore
